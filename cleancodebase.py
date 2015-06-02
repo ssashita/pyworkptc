@@ -2,6 +2,7 @@ import zipfile
 import sys
 import os
 
+
 def getJarClasses(jar_file):
     """prints out .class files from jar_file"""
     lst = []
